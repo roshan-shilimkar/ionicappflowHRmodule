@@ -1,0 +1,7 @@
+{
+  "name": "ionicappflowHRmodule",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
